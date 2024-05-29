@@ -46,7 +46,7 @@ Voilà !
 
 ## Test du projet
 
-Lancer les commandes pour exécuté notre fichier `script.ts` :
+Lancer les commandes pour exécuté notre fichier `script.js` :
 
 ```bash
 npm run start
